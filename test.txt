@@ -1,2 +1,3 @@
-haldia institute
-no of student = 30
+haldia institute of technology
+
+no of student = 66
